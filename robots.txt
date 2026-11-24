@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laundrynearme.pages.dev/sitemap.xml
